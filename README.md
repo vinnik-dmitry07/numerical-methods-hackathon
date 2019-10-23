@@ -1,4 +1,4 @@
-# NumericalMethodsHackathon
+# Problem Statements
 1. The sought functions *f* are sums of several (from 1 to 5) elementary functions with some integer positive coefficients. The guess-koeffs directory lists tables of values between 0.5 and 3.
     * Using the OLS and the system of normal equations, restore the appearance of the function *f* for each data set.
     * Display data set and function graph
