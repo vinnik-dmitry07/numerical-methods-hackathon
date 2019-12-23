@@ -8,3 +8,15 @@
     * Based on the assumption that price depends linearly on parameters, construct the function that best fits the given data. Use OLS and the system of normal equations. To "train", use train_cut.csv from the simplified folder
     * Check the quality of the predictions on the test_cut.csv set from the simplified folder - finding the rate of difference between the predicted and true prices from that set.
     * (*) Try to improve the result by using the full dataset from the full folder and the description from the data_description.txt folder. Maybe try a nonlinear option.
+3. \* Implement the image classifier of the mnist datastore through MNCs. It is enough to distinguish between 0 and 1 by taking some of the data set (up to 1000 images).
+4. Runge–Kutta 2nd or 4th order simulate population dynamics of the simplified predator-prey model (Lotka–Volterra)
+5. 2nd or 4th order Runge–Kutta method to model the pendulum behavior described by the equation
+    * Show pendulum motion animation
+    * \* Add the ability to "push" the pendulum by pressing some keys on the keyboard
+
+  
+1. ![](results/1.png)
+2. Relative error: 0.12899823274615888
+3. 
+4. ![](results/4.png)
+5. ![](results/5.gif)
