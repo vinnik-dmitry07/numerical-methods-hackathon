@@ -14,7 +14,7 @@
     * Show pendulum motion animation
     * \* Add the ability to "push" the pendulum by pressing some keys on the keyboard
 
-  
+# Results
 1. ![](results/1.png)
 2. Relative error: 0.12899823274615888
 3. 
