@@ -17,6 +17,6 @@
 # Results
 1. ![](results/1.png)
 2. Relative error: 0.12899823274615888
-3. 
+3. —
 4. ![](results/4.png)
 5. ![Model (10 FPS)](results/5.gif)
